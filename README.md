@@ -16,9 +16,11 @@ Apache Ant tool (for more conviniet build and run tasks) - installation can be f
 # How to Run
 
 Clone the repository:
-"""
+
+'''
 git clone https://github.com/IdanZiv97/Arknoid.git
-"""
+'''
+
 Enter the directory folder in the command-line. 
 In the command line run "ant compile" in order to compile the files.
 Next, write "ant run" followed by a sequnce of numbers between 1-4 (in order to generate the game level)
