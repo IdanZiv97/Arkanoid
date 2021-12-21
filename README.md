@@ -17,9 +17,9 @@ Apache Ant tool (for more conviniet build and run tasks) - installation can be f
 
 Clone the repository:
 
-'''
+`
 git clone https://github.com/IdanZiv97/Arknoid.git
-'''
+`
 
 Enter the directory folder in the command-line. 
 In the command line run "ant compile" in order to compile the files.
